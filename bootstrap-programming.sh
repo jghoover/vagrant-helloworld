@@ -3,3 +3,5 @@
 apt-get install -y python gcc gfortran sbcl build-essential
 mkdir python
 mkdir cpp
+mkdir fortran
+mkdir lisp
