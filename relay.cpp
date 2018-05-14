@@ -1,9 +1,6 @@
 #include <mpi.h>
 #include <stdio.h>
 
-// compile with "mpicxx blah.cpp -o blah"
-// run with "mpirun -np p blah"
-
 int main(int argc, char *argv[])
 {
   // rank (process number)
